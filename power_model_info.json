@@ -1,0 +1,18 @@
+{
+  "봄": {
+    "r2_score": 0.796,
+    "model_type": "Random Forest"
+  },
+  "여름": {
+    "r2_score": 0.905,
+    "model_type": "Random Forest"
+  },
+  "가을": {
+    "r2_score": 0.698,
+    "model_type": "Random Forest"
+  },
+  "겨울": {
+    "r2_score": 0.577,
+    "model_type": "Gradient Boosting"
+  }
+}
