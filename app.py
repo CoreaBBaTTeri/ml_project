@@ -1,3 +1,6 @@
+import sys
+import sklearn._loss._loss
+sys.modules['_loss'] = sklearn._loss._loss
 import streamlit as st
 import joblib
 import pandas as pd
